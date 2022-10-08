@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<h3 align="center">A passionate Software Test Engineer from Turkey</h3>
+<h3 align="left">A passionate Software Test Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Patika.dev**
 
