@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 ## 📜Certificates
 
 
-[<img  width="40"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU"  align="left" >][ISTQB]
+[<img  width="40"  src=""  align="left" >][ISTQB]
 ISTQB Foundation Level (CTFL)
 <br/>
 <br/>
 
-[<img  width="40"  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Qq6mnWu47A6GaPHmivrVgu6ndnptxgLWNQ&usqp=CAU](https://avatars.githubusercontent.com/u/7648515?s=200&v=4)"  align="left" >][Cambly]
+[<img  width="40"  src="(https://avatars.githubusercontent.com/u/7648515?s=200&v=4)"  align="left" >][Cambly]
 English Conversation Practice
 <br/>
 <br/>
