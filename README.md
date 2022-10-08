@@ -69,10 +69,7 @@ English Course ( Intermediate - B1 CEFR equivalent)
 [Cambly]:https://www.cambly.com/en/certificate/verify/d2695056?lang=tr
 [Academia]:https://academia.edu.ph/
 
-<br/>
-<br/>
 <hr/>
-
 ## 💻Tech Stack
 
 <p align="left">
