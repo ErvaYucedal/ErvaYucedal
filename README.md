@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ervayucedall@gmail.com**
 
-
 ## 🌐Socials
 
 [<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
@@ -34,12 +33,9 @@ Here are some ideas to get you started:
 [patika]: https://app.patika.dev/ervayucedal
 [linkedin]: https://www.linkedin.com/in/ervayucedal/
 [instagram]: https://www.instagram.com/ervayucedal/
-<br/>
-<br/>
 <hr/> 
 
 ## 📜Certificates
-
 
 [<img  width="40"  align="left" >][ISTQB]
 ISTQB Foundation Level (CTFL)
