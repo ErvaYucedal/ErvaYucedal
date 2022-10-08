@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Erva. 🌻
 
-<br />
-<br />
-
 <h3 align="left">A passionate Software Test Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Patika.dev**
