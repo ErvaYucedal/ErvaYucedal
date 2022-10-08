@@ -20,13 +20,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">A passionate Software Test Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **Patika.dev**
+- 🌱 I’m currently learning at **Patika.dev**
 
 - 📫 How to reach me **ervayucedall@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 ## 🌐Socials
