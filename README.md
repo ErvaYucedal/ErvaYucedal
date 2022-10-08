@@ -20,12 +20,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">A passionate Software Test Engineer from Turkey</h3>
 <br/>
+
 - 🌱 I’m currently learning at **Patika.dev**
 - <br/>
+- 
 - 📫 How to reach me **ervayucedall@gmail.com**
 
 <br/>
 <br/>
+
+
 ## 🌐Socials
 
 [<img  width="40"  src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left" >][linkedin]
@@ -36,6 +40,7 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/ervayucedal/
 [instagram]: https://www.instagram.com/ervayucedal/
 <hr/> 
+
 
 ## 📜Certificates
 
