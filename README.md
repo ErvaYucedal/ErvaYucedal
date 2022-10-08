@@ -18,26 +18,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Erva. 🌻
 
-
-## Software Test Engineer. 
-
-
-
-<front color="pink"> Coffee coffee is how I keep up with '< code />' </font>
-
-### Reach out to me 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" align="left" />] [linkedin]
-
 <br />
 <br />
 
-### Teach I use
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="25" height="25" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/selenium/selenium.png" width="25" height="25" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/appium/appium.png" width="25" height="25" >
-
-
-<h1 align="center">Hi 👋, I'm Erva</h1>
 <h3 align="center">A passionate Software Test Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Patika.dev**
