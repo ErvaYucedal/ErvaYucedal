@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+![snake svg](https://github.com/ErvaYucedal/ErvaYucedal/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐Socials
 
