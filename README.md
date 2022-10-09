@@ -22,7 +22,6 @@ Here are some ideas to get you started:
  ## 🌸 I’m Software Test Engineer  ♡
 
     - 🌱 I’m currently learning at Patika.dev
-    <br/>
     - 📫 How to reach me ervayucedall@gmail.com
 
 <br/>
