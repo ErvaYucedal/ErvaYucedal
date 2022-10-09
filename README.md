@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" align="right" widht="400" height="250">
 
-### Hi there 👋 I'm Erva. 🌻
+ ### Hi there 👋 I'm Erva. 🌻
 
 
- ## - 🌸 I’m Software Test Engineer  ♡
+ ## 🌸 I’m Software Test Engineer  ♡
 <br/>
 <br/>
     - 🌱 I’m currently learning at Patika.dev
