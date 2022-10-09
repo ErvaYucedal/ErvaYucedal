@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Erva. 🌻
 
-<h3 align="left">A passionate Software Test Engineer from Turkey</h3>
 <br/>
-
-- 🌱 I’m currently learning at **Patika.dev**
-- 📫 How to reach me **ervayucedall@gmail.com**
+## - 🌸I’m Full Stack Automation Engineer ♡
+   - 🌱 I’m currently learning at **Patika.dev**
+   - 📫 How to reach me **ervayucedall@gmail.com**
 
 <br/>
 <br/>
