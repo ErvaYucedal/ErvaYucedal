@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Erva. 🌻
 
+
+    - 🌸 I’m Software Test Engineer  ♡
 <br/>
- ## - 🌸 I’m Software Test Engineer  ♡
 <br/>
     - 🌱 I’m currently learning at Patika.dev
     <br/>
