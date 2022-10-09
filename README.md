@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm Erva. 🌻
 
 <br/>
-### - 🌸I’m Full Stack Automation Engineer ♡
+    - 🌸I’m Full Stack Automation Engineer ♡
 <br/>
     - 🌱 I’m currently learning at **Patika.dev**
     - 📫 How to reach me **ervayucedall@gmail.com**
