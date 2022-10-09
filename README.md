@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <br/>
     - 🌸I’m Full Stack Automation Engineer ♡
 <br/>
-    - 🌱 I’m currently learning at **Patika.dev**
+    - 🌱 I’m currently learning at Patika.dev
     <br/>
-    - 📫 How to reach me **ervayucedall@gmail.com**
+    - 📫 How to reach me ervayucedall@gmail.com
 
 <br/>
 <br/>
